@@ -26,3 +26,5 @@ function factorial(number) {
 }
 
 console.log(factorial(3));
+
+//Recursion is a process of calling itself. A function that call itself is called recursion function.
